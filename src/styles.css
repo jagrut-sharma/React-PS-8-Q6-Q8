@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.active-link {
+  color: red;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.link:hover {
+  color: green;
+  font-weight: 500;
+}
+
+.task {
+  padding: 1rem 0;
+  border-bottom: 2px solid gray;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
